@@ -1,7 +1,6 @@
 # information-theory-in-ML
 
-
-## deep learning for statistical inference
+## **deep learning for statistical inference**
 ### Conditional Independence Testing
 * Estimating total variation distance between two distribution
 * Distance measure estimation using classifier
